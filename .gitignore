@@ -1,1 +1,11 @@
+# Power BI temporary files
+*.tmp
+*.bak
+*.log
 
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
