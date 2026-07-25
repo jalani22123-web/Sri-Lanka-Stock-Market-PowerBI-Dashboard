@@ -6,7 +6,7 @@ An interactive Power BI dashboard built to analyze the performance of selected c
 
 ## Dashboard Preview
 
-> ![Dashboard Preview](dashboard_preview.PNG)
+> ![Dashboard Preview](dashboard_preview_v2.PNG)
 
 ---
 
